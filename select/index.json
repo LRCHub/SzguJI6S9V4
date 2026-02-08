@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Super Ball",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-02-08T13:03:11.938695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Ball",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/01_Super_Ball_TOMOO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUPER BALL",
+      "artist": "DOBERMAN INFINITY",
+      "has_synced": true,
+      "path": "select/02_SUPER_BALL_DOBERMAN_INFINITY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Ball 425",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/03_Super_Ball_425_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Super Ball",
+      "artist": "Rob Sonic",
+      "has_synced": false,
+      "path": "select/04_Super_Ball_Rob_Sonic.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Ball",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Ball_TOMOO.txt"
+    }
+  ]
+}
